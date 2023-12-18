@@ -21,7 +21,7 @@ Pyglossary, mdict-utils, python-lzo, which
 
 - Navigate to the directory that contains this script and copy the dictionary file (or any other text file) to the same directory, and  run the command: `bash replace-text.sh` or `python replace-text.py`  
 
-- Before replacement the script will ask you to define the number of the text lines that you want replace, then after replacement it will optionally convert the resulted file to MDICT MDX dictionary.
+- Before replacement the script will ask you to define the number of the text lines that you want to replace, then after replacement it will optionally convert the resulted file to MDICT MDX dictionary.
 
 
 
