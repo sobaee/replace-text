@@ -1,4 +1,6 @@
 # replace-text
+
+
 This is a python script to automatically replace any number of texts with other texts from the big text files without the need to open the file and do it manually; then will save it to a new file.
 
 
@@ -9,7 +11,7 @@ This is a python script to automatically replace any number of texts with other 
 ## DEPENDENCIES:
 
 
-Pyglossary, mdict-utils, python-lzo
+python3, pyglossary, mdict-utils, python-lzo
 
 
 <br />
