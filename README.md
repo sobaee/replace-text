@@ -13,6 +13,8 @@ This is a python script to automatically replace any number of texts with other 
 
 python3, pyglossary, mdict-utils, python-lzo
 
+You don't need them for the basic function,  you just need them for the extra move that convert the resulted file to .mdx mdict dictionaries
+
 
 <br />
 <br />
@@ -29,4 +31,4 @@ python3, pyglossary, mdict-utils, python-lzo
 
 Thanks to the owners of Pyglossary, mdict-utils.
 
-Download my modified version of Pyglossary from Google Drive, with octopus_mdict_source.py plugin added and setup.py file fixed; after decompression of the downloaded file, you can do: `python setup.py install` from inside the decompressed folder to install pyglossay and it will work perfectly: [LINK](https://drive.google.com/open?id=1foGOqZGtbVgG65zlEk2hXMPXKSQyNuIX)
+Download the modified version of Pyglossary from my fork, with octopus_mdict_source.py plugin added and setup.py file fixed; after decompression of the downloaded file, you can do: `python setup.py install` from inside the decompressed folder to install pyglossay and it will work perfectly: [LINK](https://codeload.github.com/sobaee/pyglossaryfork/zip/refs/tags/5.0.0)
