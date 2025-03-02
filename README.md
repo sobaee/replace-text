@@ -13,7 +13,7 @@ This is a python script to automatically replace any number of texts with other 
 
 python3, pyglossary, mdict-utils, python-lzo
 
-You don't need them for the basic function,  you just need them for the extra move that convert the resulted file to .mdx mdict dictionaries
+You don't need them for the basic function,  you just need them for the extra move that convert the output file to .mdx mdict dictionaries
 
 
 <br />
